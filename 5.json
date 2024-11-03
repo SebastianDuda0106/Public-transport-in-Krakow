@@ -1,0 +1,55 @@
+[
+    {
+        "type":"tram",
+        "numer":21
+        ,"stops":["stop1","stop2","stop3"]
+        ,"driver":{
+            "name":"tomek"
+        }
+    },
+    {
+        "type":"tram"
+        ,"numer":20
+        ,"stops":["stop4","stop6","stop3"]
+        ,"driver":{
+            "name":"Mateusz"
+        }
+        
+    },
+    {
+        "type":"bus"
+        ,"numer":501
+        ,"stops":["stop7","stop6","stop8"]
+        ,"driver":{
+            "name":"Adam"
+        }
+        
+    },
+    {
+        "type":"bus"
+        ,"numer":511
+        ,"stops":["stop7","stop9","stop10"]
+        ,"driver":{
+            "name":"Damian"
+        }
+        
+    },
+    {
+        "type":"bus"
+        ,"numer":482
+        ,"stops":["stop11","stop12","stop1"]
+        ,"driver":{
+            "name":"Damian"
+        }
+        
+    },
+    {
+        "type":"bus"
+        ,"numer":189
+        ,"stops":["stop2","stop9","stop13"]
+        ,"driver":{
+            "name":"Damian"
+        }
+        
+    }
+]
