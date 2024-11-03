@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transports>
+    <tramwaj id="1">
+        <numer >
+            121
+        </numer>
+        <liczba_miejsc wolne="21" zajete="180">
+            201
+        </liczba_miejsc>
+        <rok_produkcji miejsc="kraków" wiek="23">
+            2001
+        </rok_produkcji>
+        <cena_biletów rodzaj="1" ulgowy="nie">
+            5 PLN
+        </cena_biletów>
+    </tramwaj>
+
+    <tramwaj2 id="2">
+        <numer>
+            121
+        </numer>
+        <liczba_miejsc wolne="31" zajete="180">
+            211
+        </liczba_miejsc>
+        <rok_produkcji miejsc="kraków" wiek="21">
+            2004
+        </rok_produkcji>
+        <cena_biletów  rodzaj="2" ulgowy="nie">
+            15 PLN
+        </cena_biletów>
+    </tramwaj2>
+    <autobus>
+        <numer>
+            501
+        </numer>
+        <przejechane_kilometry od_ostatniego_tankowania="201" srednie_spalanie="7.1l/100km">
+            201231
+        </przejechane_kilometry>
+        <rok_produkcji miejsc="kraków" wiek="15">
+            2009
+        </rok_produkcji>
+        <przystanki>
+            narzymskiego,pilotów,brodowicza,uniwersytet ekonomiczny
+        </przystanki>
+    </autobus>
+    <autobus2>
+        <numer>
+            511
+        </numer>
+        <przejechane_kilometry>
+            129348
+        </przejechane_kilometry>
+        <rok_produkcji>
+            2011
+        </rok_produkcji>
+        <przystanki>
+            narzymskiego,pilotów,brodowicza,uniwersytet ekonomiczny
+        </przystanki>
+    </autobus2>
+    <taxi>
+        <rejestracja>
+            kra12tla
+        </rejestracja>
+        <mileage>
+            200931
+        </mileage>
+        <price_per_km>
+            2.56 PLN
+        </price_per_km>
+        <miejsca>
+            3
+        </miejsca>
+    </taxi>
+    <taxi2>
+        <rejestracja>
+            kraasdw2
+        </rejestracja>
+        <mileage>
+            212931
+        </mileage>
+        <price_per_km>
+            3.56 PLN
+        </price_per_km>
+        <miejsca>
+            4
+        </miejsca>
+    </taxi2>
+</transports>
