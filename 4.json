@@ -1,0 +1,10 @@
+{
+    "type":"autobus",
+    "number":511,
+    "stops":["narzymskiego","Brodowiczka","Pilotów"],
+    "spalanie_na_100":7.1,
+    "w trasie":true,
+    "kierowca":{
+        "imie":"Andrzej"
+    }
+}
